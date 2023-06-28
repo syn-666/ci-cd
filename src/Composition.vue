@@ -1,5 +1,5 @@
 <template>
-    <div>asdasd</div>
+    <div>asda12313sd</div>
     <div>123123</div>
     <div>{{ book.title }}</div>
     <div>{{ title }}</div>
