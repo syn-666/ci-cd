@@ -43,5 +43,5 @@ jobs:
                   # 服务器ip：换成你的服务器IP
                   REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
                   # 用户
-                  REMOTE_USER: '/www/wwwroot'
+                  REMOTE_USER: ''
                   # 目标地址
